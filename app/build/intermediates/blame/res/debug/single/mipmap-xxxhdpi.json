@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\gabry\\AndroidStudioProjects\\Jogo-da-Velha\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\gabry\\AndroidStudioProjects\\Jogo-da-Velha\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\gabry\\AndroidStudioProjects\\JogodaVelha\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
         "source": "C:\\Users\\gabry\\AndroidStudioProjects\\JogodaVelha\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     }
